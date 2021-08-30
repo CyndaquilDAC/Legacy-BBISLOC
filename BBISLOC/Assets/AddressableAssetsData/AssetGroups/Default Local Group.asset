@@ -1,0 +1,2791 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: baa556e52387ca545acd9ff119c37789
+  m_SerializeEntries:
+  - m_GUID: 00147e2e848c4e91444856bdbe9ca540
+    m_Address: Assets/Texture2D/SwingDoor0_Locked.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 009287a8c9e7ef9048152b61b3e9e672
+    m_Address: Assets/Texture2D/Bald_Frown0057.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 01637e02e093d68e4e87cf2ae2851aa5
+    m_Address: Assets/Texture2D/JumpRope_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 020c63be28d9d3ac42c8ec8e97764658
+    m_Address: Assets/Texture2D/HeadShake0012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0228e3b9bd57efa44c79cbef59fe5c12
+    m_Address: Assets/Texture2D/ItemSlots.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0245942d02b12cab480424ad9c4504fc
+    m_Address: Assets/Texture2D/Bald_Frown0041.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 02591253c9920f834d8c8942ff7ffd0b
+    m_Address: Assets/Texture2D/X.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 037e0829b23980974a1b60291660d289
+    m_Address: Assets/Texture2D/Prize_Poster.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 04363335134511834260e02494119221
+    m_Address: Assets/Texture2D/HeadShake0034.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 04718073f54a42b34ee861a5170e47ff
+    m_Address: Assets/Texture2D/PRI_Poster.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 049eaa7370b1408d4cc97933c3155772
+    m_Address: Assets/Texture2D/Baldi_Wave0039.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 065e01f28e18b4b84c0d20c58d4324cf
+    m_Address: Assets/Texture2D/Baldi_Wave0084.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 06aab81cf23270bb447df4c126eb4b01
+    m_Address: Assets/Texture2D/sky_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 072aa271285fdeba47fa6ae31ba5952d
+    m_Address: Assets/Texture2D/1PR_45.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0742947e6a2fdd934d1a9c2ccfa917fc
+    m_Address: Assets/Texture2D/Bald_Frown0068.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0761e34eafabccba4ffbbd457205093c
+    m_Address: Assets/Texture2D/Baldi_Wave0073.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 07babb1f0faabc9b45f05889dce0952a
+    m_Address: Assets/Texture2D/broom.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 086203bb58e52b874d23123d302ca955
+    m_Address: Assets/Texture2D/HeadShake0016.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 089145e99a4fb8844c0772b75780f661
+    m_Address: Assets/Texture2D/_nbSalmon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 09a740b93fe543a7434abc8a66619796
+    m_Address: Assets/Texture2D/Baldi_Wave0059.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 09d1bebc7661ceb346b07011617603bd
+    m_Address: Assets/Texture2D/Nod0029.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0b6d969d78a750af4141fa651c1e3303
+    m_Address: Assets/Texture2D/EndlessIcon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0b8fc8a65ee2379248a6c5e3e3fd949a
+    m_Address: Assets/Texture2D/Baldi_Wave0013.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0bfdd59b184389bf48943700b7e3704a
+    m_Address: Assets/Texture2D/_nbCyan.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0c4c5351c638f7a046d88379f066352d
+    m_Address: Assets/Texture2D/Bald_Frown0052.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0dc486a2b5cdf8ac4ab8ef53f7e6b8e3
+    m_Address: Assets/Texture2D/Nod0045.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0e4082bc1b26d7a64c029bacb9841410
+    m_Address: Assets/Texture2D/Baldi_Wave0023.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0e9eb6abffd827b64e62bf783d1dc31f
+    m_Address: Assets/Texture2D/Nod0013.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0f49263698379ab54b2c36804a7efd3f
+    m_Address: Assets/Texture2D/Nod0018.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0ff5a22d05d134a04ff79d456216435f
+    m_Address: Assets/Texture2D/Baldi_Wave0075.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 10f20380ca8ce79f4f56029ab69bfbee
+    m_Address: Assets/Texture2D/Baldi_Talk0013.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1162eb7040e12dbb4d6ed4cd87266db4
+    m_Address: Assets/Texture2D/Baldi_Wave0057.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 11c2b1f0070dd1b8448b2b926a979d20
+    m_Address: Assets/Texture2D/Bald_Frown0008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 11e63117dcc00fa141fedd73b912c9d5
+    m_Address: Assets/Texture2D/Nod0010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 127da9709b2d259742b3952a7bf5e797
+    m_Address: Assets/Texture2D/3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 133031684b0a2bb1480c5627373adbef
+    m_Address: Assets/Texture2D/Nod0037.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1337d3e16e1f54ac49e6769047c272de
+    m_Address: Assets/Texture2D/BaldiDoorOpen.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1343194474346daa4d1dd40e3475c475
+    m_Address: Assets/Texture2D/Baldi_Wave0047.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1384147be1a917984b7d8ac72542705d
+    m_Address: Assets/Texture2D/1PR_202.5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 149a8e07df35f597433debe9549c3a9f
+    m_Address: Assets/Texture2D/HeadShake0011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 159f94182baabfb24f636fe625c30885
+    m_Address: Assets/Texture2D/fence.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 16be3c98b17450ad43166e1ebb8892eb
+    m_Address: Assets/Texture2D/FacultyDoor_80.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 17be1543e6db2aa443ffac0cdbfaf223
+    m_Address: Assets/Texture2D/Globe.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 17c2a01febdc87914982d4cc2913512f
+    m_Address: Assets/Texture2D/Rope0039.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 191ace65842c819f46550894330abb19
+    m_Address: Assets/Texture2D/TileFloor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 19854c3b7b15ee844eab4a54e61387be
+    m_Address: Assets/Texture2D/Nod0000.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 199ee2c1782f6c964e5292c5b0a0f5c1
+    m_Address: Assets/Texture2D/Nod0001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 19e1f12cc24b978540fceb6a1dfeb2c0
+    m_Address: Assets/Texture2D/HeadShake0032.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 19e3007d6d9f438b468c4bc95254fdd9
+    m_Address: Assets/Texture2D/Baldi_Wave0088.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1ac19329e0e3579947499a130336c13e
+    m_Address: Assets/Texture2D/HeadShake0023.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1b08e82a331dceb84a02d9cbd0472b27
+    m_Address: Assets/Texture2D/win.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1b5044558f1312904632b5ad43c06a43
+    m_Address: Assets/Texture2D/HeadShake0005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1c86a7c713fa8888424bf260d2f85d40
+    m_Address: Assets/Texture2D/WallFade.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1db40449fe6435b54013ed101b6561a6
+    m_Address: Assets/Texture2D/WhiteBrickWall.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1dd5b1c6bb86ce8246c6b0c0c9707ae7
+    m_Address: Assets/Texture2D/Baldi_Talk0012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1e5f17fd7ee5bd9b49fb101971c283a1
+    m_Address: Assets/Texture2D/1PR_292.5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1f990cf311d1339840d7c684021aba6f
+    m_Address: Assets/Texture2D/Nod0003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 206061d87582c2a64571caa45b04af09
+    m_Address: Assets/Texture2D/99_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 20b50584f5f9b3a041edd99894909f36
+    m_Address: Assets/Texture2D/JumpRope_None.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 20d850f6f1ba209148d299423f4f969c
+    m_Address: Assets/Texture2D/BSODA_Spray.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2114bf9b4e6d3ebc4299e4ba79ebd0e1
+    m_Address: Assets/Texture2D/Knob.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 21e867852ec750a54b904bb09b113fd1
+    m_Address: Assets/Texture2D/Nod0027.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2214d643051b7e8f4b7f8f90a10792e3
+    m_Address: Assets/Texture2D/HeadShake0014.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2328266900eb39ac4db180b136e9aeba
+    m_Address: Assets/Texture2D/Bald_Frown0012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2497a4077eee069f446f7867d1462e95
+    m_Address: Assets/Texture2D/Baldi_Wave0052.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 24e8ade9eb7599b24799b12df399fd05
+    m_Address: Assets/Texture2D/HeadShake0037.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2583d67c89de36b44828b9404f4e21d3
+    m_Address: Assets/Texture2D/Rope0038.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 25c7b77539e9e08b4939e2a02f078606
+    m_Address: Assets/Texture2D/Bald_Frown0065.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2756d1979278bfaf4e2f5c8eee29ef82
+    m_Address: Assets/Texture2D/logo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 286e1afd4b2e17be4f6bad3e047ceed1
+    m_Address: Assets/Texture2D/Locker.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 28a43c6fe7b7e6a146309c7fe38220a7
+    m_Address: Assets/Texture2D/Baldi_Wave0008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 29650c74bca41ea040d6e961441111ef
+    m_Address: Assets/Texture2D/title_back.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2a3923896b1dfca34964af7021c94ffc
+    m_Address: Assets/Texture2D/BaldiDoor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2a6e8d2bebbfbfb74644f41d9a7926e0
+    m_Address: Assets/Texture2D/_nbBlue.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2b26dc61e0ecd7b4461a77d43eb98829
+    m_Address: Assets/Texture2D/HeadShake0030.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2b70525c5ff7b88a460cd733fb477633
+    m_Address: Assets/Texture2D/Bald_Frown0035.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2b950863a1fdddbe4f853158fff800d9
+    m_Address: Assets/Texture2D/Baldi_Talk0011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2d1832f5e487f0b14e54d0afc9012c6c
+    m_Address: Assets/Texture2D/ExitSign.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2e3410c5aa8073a34e88a964350c0701
+    m_Address: Assets/Texture2D/Rope0037.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2e4e7423696302bf4292fee4479dafe3
+    m_Address: Assets/Texture2D/HeadShake0024.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2edf0d8ce4aefa9d49d5e43638c8500a
+    m_Address: Assets/Texture2D/Baldi_Wave0069.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2eec9c76a30f178c4485ffe91c5e87c9
+    m_Address: Assets/Texture2D/Bald_Frown0014.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2f01d0a7a4b63ead466288c71aa74ee7
+    m_Address: Assets/Texture2D/Baldi_Wave0071.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2f7008aef6fdedbe41b3274650e0ef69
+    m_Address: Assets/Texture2D/Baldi_Wave0053.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2f770e40ebf3f69c458ae1a3f7165fd7
+    m_Address: Assets/Texture2D/Bald_Frown0046.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2fdd6960e0b43689403064cbdd769761
+    m_Address: Assets/Texture2D/Nod0032.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2fe3a1e6753b3aaf435c5bf9acdd8658
+    m_Address: Assets/Texture2D/Nod0014.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 302f909855c4af9a43429a0949297684
+    m_Address: Assets/Texture2D/JumpRope_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 308596f3de14c48e4e0ef3f052788474
+    m_Address: Assets/Texture2D/Bald_Frown0040.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 31035f5e6d2ae6a14770f8db74717933
+    m_Address: Assets/Texture2D/1PR_112.5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 310bdfb0376d3cb74da961320b1330fa
+    m_Address: Assets/Texture2D/SchoolAttention.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 31a9f36fb55e1ebe4526799dd6989672
+    m_Address: Assets/Texture2D/HeadShake0025.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 326dab6ae45734a14f0a6d4290df2d5f
+    m_Address: Assets/Texture2D/Bald_Frown0016.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 32ba8fb46107bc8449b9fbcec59a7ba3
+    m_Address: Assets/Texture2D/ScissorsPoster.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 32e0b396a8e39e9d4ddceb92ed0a01cc
+    m_Address: Assets/Texture2D/Baldi_Wave0016.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 33656c5a82036aa04bd9601f9f441b9d
+    m_Address: Assets/Texture2D/Baldi_Wave0087.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 339c2245f0b9c3b140000d11daad17d4
+    m_Address: Assets/Texture2D/Rope0031.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 33a78b0562d59097462f4c931af48820
+    m_Address: Assets/Texture2D/comic01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 34715bf77d170fa44086eb66a3aaaa4f
+    m_Address: Assets/Texture2D/HeadShake0020.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 34a0c9b36e0a0fae41c566e906b0c9e1
+    m_Address: Assets/Texture2D/SafetyScissors.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 34bbc81ba48f85814674c38ab06f4010
+    m_Address: Assets/Texture2D/sky_180.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 34d4a6ed472bceb344d64a2c4d5ebef0
+    m_Address: Assets/Texture2D/HeadShake0013.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 352b40ca31083dad45fec844ee3705bc
+    m_Address: Assets/Texture2D/Nod0025.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3611f887f2d614ae4f9b3b57d09600d3
+    m_Address: Assets/Texture2D/Baldi_Wave0044.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 36bc3a6604bf79984d0eb95cef988423
+    m_Address: Assets/Texture2D/1PR_270.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 36f8dfa3bd41dca6418fb12629a0eb2a
+    m_Address: Assets/Texture2D/HeadShake0007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 37983d04ec73a6b3490606891cac00b2
+    m_Address: Assets/Texture2D/HeadShake0021.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 381c92d8acf9b4b7403e43c956020495
+    m_Address: Assets/Texture2D/Bald_Frown0032.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 38b34881e2a16c8949462080182d8b6e
+    m_Address: Assets/Texture2D/HeadShake0046.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3a436dae262fa3ac4a11b84b15f40f8e
+    m_Address: Assets/Texture2D/1PR_247.5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3ad6e2c970de3e934e37a4f4010f1b9f
+    m_Address: Assets/Texture2D/Bald_Frown0003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3aef596d72d1af8346bbaadc92da943b
+    m_Address: Assets/Texture2D/Baldi_Wave0018.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3c1d9c11dcc2209244da16570ff7fa5d
+    m_Address: Assets/Texture2D/Baldi_Wave0061.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3cb44651356a5ba2481f58ee48fa2bf0
+    m_Address: Assets/Texture2D/wd_nosquee.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3cd427665ca0c29f44cb0cede99e6b77
+    m_Address: Assets/Texture2D/Baldi_Wave0010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3d400955960635ab4f34f831a375d13d
+    m_Address: Assets/Texture2D/Baldi_Wave0037.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3d61622a0bb863aa4adaa15a865c00d0
+    m_Address: Assets/Texture2D/Baldi_Wave0086.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3d7fdcecfb8870b140e623247eb38b73
+    m_Address: Assets/Texture2D/Baldi_Wave0055.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3da13511dc4c378f42824ed268b48061
+    m_Address: Assets/Texture2D/Nod0012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3df42bb7c47cd8814ac427bca8d72e6b
+    m_Address: Assets/Texture2D/Baldi_Wave0014.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3fa79a0564667704391e95b08a03762f
+    m_Address: Assets/Texture2D/SweepDoorOpen.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3fe830a5f9116aa4451ecf841b228151
+    m_Address: Assets/Texture2D/Bald_Frown0055.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 412e76d0e920afaf4fb0b0ac8350085f
+    m_Address: Assets/Texture2D/Blank.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 43441859a9e618974e363ca0bb5b5020
+    m_Address: Assets/Texture2D/Baldi_Wave0078.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 44bdb4fec26f8783467a0a4eedde3b37
+    m_Address: Assets/Texture2D/Bald_Frown0026.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4508f94334dd459e4afad46e24a84f37
+    m_Address: Assets/Texture2D/Baldi_Wave0051.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 461eaa12b04e559442b7672361060233
+    m_Address: Assets/Texture2D/Nod0039.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 46981816c432fdae4940c6469683b7b9
+    m_Address: Assets/Texture2D/Baldi_Talk0010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4725c01d130b0c924506d96e78313168
+    m_Address: Assets/Texture2D/Baldi_Talk0018.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 48c4b9ab6e45b5a84817b46c1b2788a3
+    m_Address: Assets/Texture2D/Baldi_Wave0096.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 48ff4480d7cbb2834deb91cac7dd1e01
+    m_Address: Assets/Texture2D/Nod0011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 49c8bfb23c1254af4f678a9ade733903
+    m_Address: Assets/Texture2D/Carpet.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4b4b6ad81b18bf9849e093e08e49418a
+    m_Address: Assets/Texture2D/Nod0022.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4bf25e9bcca1efb549acf824fcb9c917
+    m_Address: Assets/Texture2D/Baldi_Wave0005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4c5a16582e9c268745d1d6f91238ea6d
+    m_Address: Assets/Texture2D/Bald_Frown0045.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4cef3f8b2d27308d4ff56dc302bbb221
+    m_Address: Assets/Texture2D/Bald_Frown0031.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4d12ad0ceb2c81814e7774177ce3d96a
+    m_Address: Assets/Texture2D/Bald_Frown0009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4d951117774d54934e2a9c6d3881c99d
+    m_Address: Assets/Texture2D/Rope0043.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4dfeb3624dff43b648dc102a596d5f3e
+    m_Address: Assets/Texture2D/Baldi_Wave0009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4f28b6f5ed693b9d425f8c3167e55d86
+    m_Address: Assets/Texture2D/Nod0046.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4f6799f23d80b89e495f0a9a588252ac
+    m_Address: Assets/Texture2D/1PR_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 50636ecf1fd226b6479b52efd79425b1
+    m_Address: Assets/Texture2D/Baldi_Wave0092.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 50805a2d701ad9b243f937608df8de22
+    m_Address: Assets/Texture2D/Nod0047.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 520876147e64a8ba48a1a508e6810e7f
+    m_Address: Assets/Texture2D/Bald_Frown0005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5239aca36e00d4b54dbf2ea4c77310a8
+    m_Address: Assets/Texture2D/Nod0004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 52444aad6100f8874ca39b592cadc0dc
+    m_Address: Assets/Texture2D/HeadShake0044.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 524567a669b779874a84172d821fc13c
+    m_Address: Assets/Texture2D/Background.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 525ffcfe7301569e474bc2777cc90f39
+    m_Address: Assets/Texture2D/MM12 Logo transparent.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 52c07d7d3d9ab9a048b7222a4b42ffbd
+    m_Address: Assets/Texture2D/title_final.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 52cbdab76a74d5a74b3d5e948d500ac2
+    m_Address: Assets/Texture2D/TapePlayerClosed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5432c5dd39dce1b843850c3e1336cd39
+    m_Address: Assets/Texture2D/Baldi_Talk0016.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 55465e7adaba2a88485051e7af4b6507
+    m_Address: Assets/Texture2D/StoryIcon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 555131531d4df59d44fcb6634799e366
+    m_Address: Assets/Texture2D/Baldi_Slap0000.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 55bdd02566ec9dbd409cd7ed1cd4e7dc
+    m_Address: Assets/Texture2D/Notebooks.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 55d2464eb11333ae4a619583dcbaeec7
+    m_Address: Assets/Texture2D/2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 56058a98a6892c9d4c51c34309ee31e0
+    m_Address: Assets/Texture2D/1PR_135.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5817740bdbda09b3497f50f6bfec12d7
+    m_Address: Assets/Texture2D/Bald_Frown0053.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 59e317776ea1789241711fee4513ee33
+    m_Address: Assets/Texture2D/Baldi_Talk0002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 59e54dc8152c83804a7d5056b7c34ed3
+    m_Address: Assets/Texture2D/pencils.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5a41998ee5f160ba4ebad2a8658617e5
+    m_Address: Assets/Texture2D/HeadShake0028.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5a688f519f6902aa4cc5332b835e5789
+    m_Address: Assets/Texture2D/Bald_Frown0067.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5afdc34da080978d4082f08fe4407c37
+    m_Address: Assets/Texture2D/Bald_Frown0033.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5b2ff5a03aa8ceb54755d406c33708ff
+    m_Address: Assets/Texture2D/HeadShake0022.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5b6c87f6c5ed62aa4c4472dd2f4e03ae
+    m_Address: Assets/Texture2D/Nod0030.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5b97d1aa7d1ae79e4d388ecc01d05ac2
+    m_Address: Assets/Texture2D/Bald_Frown0004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5bb7c88beb2bf79044b537fb3f803027
+    m_Address: Assets/Texture2D/Baldi_Wave0095.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5bdae87dde70b3bd4a12cc9d6da3ffb7
+    m_Address: Assets/Texture2D/world.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5c2c4384474cacb54b41e6bd8ce13d40
+    m_Address: Assets/Texture2D/Bald_Frown0061.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5cfe80b9576c02824e152ad19254a473
+    m_Address: Assets/Texture2D/Baldi_Wave0080.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5d7a622300aec0bf4fbb912a0d25bb55
+    m_Address: Assets/Texture2D/_nbRed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5d8969f6ab33c4bb4f15349036e23260
+    m_Address: Assets/Texture2D/HeadShake0001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5ebe5abfac7893b3429df595949467f6
+    m_Address: Assets/Texture2D/Baldi_Wave0060.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 61165c151e9733b34c94ebc0a8693fa8
+    m_Address: Assets/Texture2D/Bald_Frown0064.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 615895a23b2fde834564776f9304ed3a
+    m_Address: Assets/Texture2D/Baldi_Wave0045.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 61f967c11bb81ea14fdf3cf03dcd0631
+    m_Address: Assets/Texture2D/Nod0038.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6406d6019d3df7bd421d4318acad5305
+    m_Address: Assets/Texture2D/Baldi_Wave0017.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 64d5c20fb25a2ba74ce5afde1670f8b6
+    m_Address: Assets/Texture2D/Bald_Frown0006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 65407833c148488b488030f399b12e1c
+    m_Address: Assets/Texture2D/exit.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 66784e8a04b7e6a54c4c6a001583152a
+    m_Address: Assets/Texture2D/Bald_Frown0020.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 667a0303ecb7fd9547a644940bdd4379
+    m_Address: Assets/Texture2D/Baldi_Wave0012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 683e4e8ad3a57d88479fe0140e4d5a3e
+    m_Address: Assets/Texture2D/title_howto.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6890a9339cf88daf4180d1724cd585d4
+    m_Address: Assets/Texture2D/Check.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 690c5d0c1fa9a7a34c579fd5fb303348
+    m_Address: Assets/Texture2D/Lore.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 690c9696de77c6894d97d427bd0ae7f1
+    m_Address: Assets/Texture2D/Baldi_Talk0004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 69724796c08067884e214aa7c452c031
+    m_Address: Assets/Texture2D/JumpRope_5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 69a04447e9e980b849f561f3145c0387
+    m_Address: Assets/Texture2D/SwingDoor0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6a270890169d5d8c43f2071726aa7e8f
+    m_Address: Assets/Texture2D/NorthExit.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6b8d9032981fd0884d7affc6847a107d
+    m_Address: Assets/Texture2D/sorry2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6c00ef8ebbbfb48a488afe0b249ef316
+    m_Address: Assets/Texture2D/Crafters_Ohno.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6dfe05eb664c0e804314f1855285ed60
+    m_Address: Assets/Texture2D/PhonePoster.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6e32a27887f718b74ee89286af3b816d
+    m_Address: Assets/Texture2D/Bald_Frown0000.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6e64a00dec5fae8d42a76bdd5f415093
+    m_Address: Assets/Texture2D/comic00.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6e7004b0a0cf0ca6420e9d980e9e0240
+    m_Address: Assets/Texture2D/sky_90.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6e82d8ea21941a954cf23d970285c09c
+    m_Address: Assets/Texture2D/Bald_Frown0011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6fe52202279d729940fdaf3a986681a6
+    m_Address: Assets/Texture2D/Nod0019.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 708d024bfe3bbebe43619b6f53e5529c
+    m_Address: Assets/Texture2D/Baldi_Wave0021.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 71e322d7249b779b4956a14e0e900d9a
+    m_Address: Assets/Texture2D/Baldi_Wave0072.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7210f9bc5bdcc8914ffb4da0cce03fcf
+    m_Address: Assets/Texture2D/Rope0046.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 726aa5f27e5173974ea8b93974c44822
+    m_Address: Assets/Texture2D/Baldi_Slap0012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 729d870b42168db84a14941549f34f88
+    m_Address: Assets/Texture2D/Bald_Frown0062.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 72c55145720106914a6ea89a1ead9cef
+    m_Address: Assets/Texture2D/Baldi_Wave0003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 730215a5c925d2ae4fd8f8863e8f16fc
+    m_Address: Assets/Texture2D/Cheese.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7492926f528e2e88475219567eec4239
+    m_Address: Assets/Texture2D/Baldi_Talk0009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 75965803da36daa941f17dd72d5e358f
+    m_Address: Assets/Texture2D/Bald_Frown0019.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 75a4c2c4f075cf9741aeea51514b7eda
+    m_Address: Assets/Texture2D/Door_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 76a4dfbbdaea0293441de42ece5d69a5
+    m_Address: Assets/Texture2D/Baldi_Wave0032.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 76df9fed30f0e8984de7ac73facfaefb
+    m_Address: Assets/Texture2D/Baldi_Wave0007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 76e88da254a34cb64bb58d7a68bfbb10
+    m_Address: Assets/Texture2D/Nod0028.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 76f9e9ea003f6fb743b046d1ba23cf28
+    m_Address: Assets/Texture2D/Baldi_Wave0074.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 780137be258ad2a343f0886e0d4c9043
+    m_Address: Assets/Texture2D/Baldi_Slap0006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 780ad0153a694e964bb8a10d93eb14e9
+    m_Address: Assets/Texture2D/Rope0042.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 79312942cd058d9b4bb714c3e8d78e6b
+    m_Address: Assets/Texture2D/secretwall.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 79ffd271bf86c29f43e42948531f7c91
+    m_Address: Assets/Texture2D/Bald_Frown0024.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7a9833673e8a2793477fdbc4864b93b8
+    m_Address: Assets/Texture2D/Nod0033.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7ac1dce9612ffda341e9ca2a8ee5722a
+    m_Address: Assets/Texture2D/Font Texture.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7b063d5dbc8ca8a946501f8256209367
+    m_Address: Assets/Texture2D/Baldi_Talk0003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7bbb90447f6ba0a043f130d71aa20597
+    m_Address: Assets/Texture2D/Baldi_Wave0036.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7c5de771f084adbb4d54016821e24c6e
+    m_Address: Assets/Texture2D/Baldi_Wave0001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7c667daa8f973abf456be727846eeb66
+    m_Address: Assets/Texture2D/Baldi_Talk0000.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7cd36402b4bdcfaf42752feca8ea4b7d
+    m_Address: Assets/Texture2D/Bald_Frown0028.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7da7a55d5f6498b3489332779e3f1c5a
+    m_Address: Assets/Texture2D/HeadShake0018.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7dd4335383e2bdbd42bd567d98ad1bae
+    m_Address: Assets/Texture2D/Bald_Frown0034.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7f2b74414944e385422980175fee0d3e
+    m_Address: Assets/Texture2D/Baldi_Wave0063.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7f8b44379714d88a4e4c93d3c3c88adf
+    m_Address: Assets/Texture2D/HeadShake0033.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7fbfcd6515e848b14711ab9869176509
+    m_Address: Assets/Texture2D/Bald_Frown0027.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 80112380c0b770a3472086792e4d0a64
+    m_Address: Assets/Texture2D/YellowDoorLock.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 807db50a37b08482407c84aae529f31b
+    m_Address: Assets/Texture2D/Nod0007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8275e6cb797a109049438f1d762333d2
+    m_Address: Assets/Texture2D/_nbGreen.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 829a3d2ce5ebd4af44a94f2a9b9b3a63
+    m_Address: Assets/Texture2D/Baldi_Talk0021.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 82fdddc356f5c0b649d6a7bce3258451
+    m_Address: Assets/Texture2D/Baldi_Wave0054.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 834f339d609889b5408c9424a2a425ec
+    m_Address: Assets/Texture2D/Baldi_Wave0083.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 838e922fd433e4a747e301f1bfc49031
+    m_Address: Assets/Texture2D/CursorSprite.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 847dc8235b2314984c10d139c875e844
+    m_Address: Assets/Texture2D/Nod0040.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 85c50009fb5de99041c3c6b633bffe52
+    m_Address: Assets/Texture2D/Baldi_Wave0038.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 85f0a54eceb064af4c221e556b519574
+    m_Address: Assets/Texture2D/HeadShake0047.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 871cee592abd3eba4636f783fcf092bf
+    m_Address: Assets/Texture2D/Rope0033.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 877282fa3d22609d4841fec48ac83971
+    m_Address: Assets/Texture2D/Banana.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 87dde436547d95be40c3a20db5e267e6
+    m_Address: Assets/Texture2D/Nod0036.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 881a3f4240b04e8e42adb9a346019ca5
+    m_Address: Assets/Texture2D/HeadShake0039.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 88afeaa0ac3a2ca84233fd5074305205
+    m_Address: Assets/Texture2D/HeadShake0043.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 88bcc9f8590497a6467d405053043d45
+    m_Address: Assets/Texture2D/sky_DOWN.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 88e85babd271b4aa4feb35f75ec03d47
+    m_Address: Assets/Texture2D/EastExit.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 89016ecb39ea13aa4da6628f41c64197
+    m_Address: Assets/Texture2D/Baldi_Wave0077.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 89374648e021f1ba4a5c94cb4500650b
+    m_Address: Assets/Texture2D/Baldi_Talk0017.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 895a9bf3a782d59648c893a88cb22076
+    m_Address: Assets/Texture2D/recyclefood.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8a10c831f489e1854c65b616315c6c16
+    m_Address: Assets/Texture2D/Bald_Frown0007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8a44ab44205e39884fbd1145f7ca2adf
+    m_Address: Assets/Texture2D/HeadShake0041.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8aab934d79fb3e9345871d66ee110791
+    m_Address: Assets/Texture2D/Rope0044.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8d35f268ce28719f4831546d70ce72e1
+    m_Address: Assets/Texture2D/Rope0045.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8d706e4c8ca40180425444aefe676b4e
+    m_Address: Assets/Texture2D/Nod0023.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8d7c130978fc7dbc47f142070c52b18a
+    m_Address: Assets/Texture2D/JumpRope_6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8d94c2e07a4de8ac47abba41b0ccd512
+    m_Address: Assets/Texture2D/1PR_22.5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8e4f8cc40d4c429c4ea518ff5cd813a6
+    m_Address: Assets/Texture2D/Sweep_Poster.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8edf60a2296d408f480f96ff289e14d8
+    m_Address: Assets/Texture2D/1PR_157.5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8f092ed05a2cf18244d3f2e702e43969
+    m_Address: Assets/Texture2D/papers.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8f161f60b1487a93462b667b8d063164
+    m_Address: Assets/Texture2D/HeadShake0015.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9003e2748f8edda14387f8d849feffc5
+    m_Address: Assets/Texture2D/sky_UP.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 909af92537335db843def9232dba0f18
+    m_Address: Assets/Texture2D/Crafters_Poster.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 90db5296112bfdb840a5768c41e2b4fb
+    m_Address: Assets/Texture2D/Rope0040.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 915baf7a8bbec0a645a5603339f06496
+    m_Address: Assets/Texture2D/Baldi_Talk0007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 91659186af0726af47babde54ff7e166
+    m_Address: Assets/Texture2D/Baldi_Wave0066.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 91894f8a10160b8c4be5f545b4aabb6f
+    m_Address: Assets/Texture2D/Baldi_Wave0041.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 92e3c502d293869f48e663eed93403d5
+    m_Address: Assets/Texture2D/Bald_Frown0023.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 937451781925dda745d54d7c08340ad7
+    m_Address: Assets/Texture2D/Baldi_Wave0064.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 93847b47f05b53b14349ac20aea298ad
+    m_Address: Assets/Texture2D/Baldi_Wave0070.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 93f1d537691e8bbf4ef335265b5c2eef
+    m_Address: Assets/Texture2D/Baldi_Wave0015.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 94d61ee83a8997be4d08ad2013f93518
+    m_Address: Assets/Texture2D/g.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 94de44f4220122b8479739528c05368b
+    m_Address: Assets/Texture2D/_nbBlack.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 955b794eb9cf29b3409ec9a777828fbc
+    m_Address: Assets/Texture2D/1PR_225.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9582149839edc7954a74907334e40a7f
+    m_Address: Assets/Texture2D/Baldi_Wave0046.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 958b7adc4b5180a4401d90a760350dc5
+    m_Address: Assets/Texture2D/1PR_67.5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 95aa450af02933934f52aedf3d458432
+    m_Address: Assets/Texture2D/Baldi_Talk0008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 95b530873926a5994e335e3a3275c1b3
+    m_Address: Assets/Texture2D/filename2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 95b74e4975ee398c497d6d4834622267
+    m_Address: Assets/Texture2D/HeadShake0027.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 965f0ddace7804b84164e094256e8df1
+    m_Address: Assets/Texture2D/HeadShake0031.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 96723e424d3b1aaf496c0697c87c7232
+    m_Address: Assets/Texture2D/Nod0009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 96fae23149ba60a7479f7ded5b7a5bbe
+    m_Address: Assets/Texture2D/Baldi_Talk0019.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 97cc5c7b4ddbaf9e47f75f097d14c85a
+    m_Address: Assets/Texture2D/Nod0044.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 98117bf4311ac1b4412fcca99ecbf10e
+    m_Address: Assets/Texture2D/Nod0006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 988a253d0e914ca84455e3dd214a4632
+    m_Address: Assets/Texture2D/Baldi_Wave0068.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9996256fc24f50a143406481b1bf034a
+    m_Address: Assets/Texture2D/HeadShake0006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9a6f9c2deb46df9049efb017eb50a208
+    m_Address: Assets/Texture2D/SouthExit.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9a7bc1ed1170fcb645044a2a17f2f865
+    m_Address: Assets/Texture2D/HeadShake0004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9aaa1d56bef125be471ec1c0e8ab9c35
+    m_Address: Assets/Texture2D/Baldi_Slap0024.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9ae8225e98bea4ad48d9585c79ef386e
+    m_Address: Assets/Texture2D/Bald_Frown0036.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9b4a574d3e049aab456676c4f671e2ff
+    m_Address: Assets/Texture2D/Bald_Frown0069.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9bac269885e94ba04f60633aa62796b5
+    m_Address: Assets/Texture2D/Baldi_Wave0089.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9d3a820b7b7c9d9645f3780aac757fd6
+    m_Address: Assets/Texture2D/Baldi_Talk0020.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9ddb71f5484fce914ea09db7b6864bc3
+    m_Address: Assets/Texture2D/Baldi_Wave0027.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9eeb574d264d8aa6483e06cb163a304f
+    m_Address: Assets/Texture2D/food.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9ef92d4eb567339a4b18b25ad111e4e8
+    m_Address: Assets/Texture2D/HeadShake0009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9f5a42e0052296b545d3141ec8a4fac3
+    m_Address: Assets/Texture2D/1PR_90.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9f67debb2ed4c2b6491af7b028b8312a
+    m_Address: Assets/Texture2D/Baldi_Wave0050.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9f6b72a64e41baad4efee53138e19d88
+    m_Address: Assets/Texture2D/Baldi_Wave0035.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9ffd58b206d9e9ba4ca0b02312707554
+    m_Address: Assets/Texture2D/HeadShake0035.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a0d21c2ed527b2af473fe8d0ebebb9a1
+    m_Address: Assets/Texture2D/HeadShake0017.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a191146a86b6988e40c6684a039de578
+    m_Address: Assets/Texture2D/Bald_Frown0021.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a242b4f8ce264692468232377d9461df
+    m_Address: Assets/Texture2D/Baldi_Wave0033.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a30840ecb1ba6b89468b9b031576f1eb
+    m_Address: Assets/Texture2D/Bald_Frown0047.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a38a665253557e8f49af0b12f0434be3
+    m_Address: Assets/Texture2D/1PR_180.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a43aa8555a9b508e4ea56142c0b10ffd
+    m_Address: Assets/Texture2D/HeadShake0029.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a4a8376c7c789e9419651cb1623109be
+    m_Address: Assets/Texture2D/SweepDoor.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a4ce904e039635b64f1e3d7055b7136c
+    m_Address: Assets/Texture2D/Bald_Frown0066.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a562cebb898835894498ed4e0693fe23
+    m_Address: Assets/Texture2D/Ceiling.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a57ee48032e8bc994e9204e30eb2dcf7
+    m_Address: Assets/Texture2D/HeadShake0042.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a5b50fd51e225cb1488deadf7cb81843
+    m_Address: Assets/Texture2D/dab.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a648796c74fc31b6482c4998bb4a2c42
+    m_Address: Assets/Texture2D/Nod0024.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a66c3c289442ffb846cd481a0114b3f4
+    m_Address: Assets/Texture2D/BaldisBlackboard.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a69afc93f558629646bd469aa2a41154
+    m_Address: Assets/Texture2D/HeadShake0038.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a7253f700ab2df92461b3ebb6056260f
+    m_Address: Assets/Texture2D/1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a75dcfaf662706a24ec58282be39c1d9
+    m_Address: Assets/Texture2D/Baldi_Wave0029.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a76fd8bfd1c9aca540cf393d11736be5
+    m_Address: Assets/Texture2D/Baldi_Wave0099.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a77ef8389118ca854cfa62bf95ecc6cf
+    m_Address: Assets/Texture2D/Baldi_Wave0098.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a83cd47b6a31a591423bc217e4628c45
+    m_Address: Assets/Texture2D/Baldi_Talk0022.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a8df63f047e3fd814d69b2f3393b247f
+    m_Address: Assets/Texture2D/title_start.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a93cea0476b545a042d956efc66e6e1c
+    m_Address: Assets/Texture2D/Nod0021.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a9406f485eaae7a24f760c5bb5317b38
+    m_Address: Assets/Texture2D/Baldi_Wave0026.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a9c7ac8eb07142ba494cdfb16a6be029
+    m_Address: Assets/Texture2D/HeadShake0002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a9ebe02f07cf26bc4ac6cbcdfeae3ec9
+    m_Address: Assets/Texture2D/Baldi_Wave0025.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a9f944bb49f852bc4eaecaee9c7a86b0
+    m_Address: Assets/Texture2D/FacultyDoor_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ab065672084d78b14b41a2eeb773e0d7
+    m_Address: Assets/Texture2D/HeadShake0010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ab9a70f1a3182bb04777af54c2c418cb
+    m_Address: Assets/Texture2D/5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ac987dca4acd518e4368433211740881
+    m_Address: Assets/Texture2D/Phone.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: acb663987a82e0b2421e2177ff4ce1b9
+    m_Address: Assets/Texture2D/TapePlayerOpen.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: adf7c0a0a80a77f429bd4f875125fc88
+    m_Address: Assets/Texture2D/APPIcon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ae242efd22dbec8344bba1e12df9232d
+    m_Address: Assets/Texture2D/Nod0017.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ae2b0e8aaba209ac429ccc793cbd975a
+    m_Address: Assets/Texture2D/PlaceHolder.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: af63550a00e5fb8d495f2be21594c85f
+    m_Address: Assets/Texture2D/Bald_Frown0030.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: afbbdf38ce8019a44fc5efb7deae7b7b
+    m_Address: Assets/Texture2D/Baldi_Talk0001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b04c946977a33fb34784df8f4d8b8480
+    m_Address: Assets/Texture2D/Bald_Frown0038.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b079992671744a8249b69b3ca6586891
+    m_Address: Assets/Texture2D/PlaceFace.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b0878e0c1809118640528a228e05e6b0
+    m_Address: Assets/Texture2D/Bald_Frown0029.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b0e2eecad67efb9147cf03ce7744b17d
+    m_Address: Assets/Texture2D/Nod0041.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b439027d93e7cba141bb690257f12ca4
+    m_Address: Assets/Texture2D/ZestyMachine.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b43cf05a07b9ed9f4c752aa300eea412
+    m_Address: Assets/Texture2D/Bully_Poster.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b4898fc28c9f739e446d347376ab016a
+    m_Address: Assets/Texture2D/Nod0020.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b49f50e499cc94804ffb4eff0e80c589
+    m_Address: Assets/Texture2D/HeadShake0036.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b4eccc74fe7fd0994665e961135a5a66
+    m_Address: Assets/Texture2D/Nod0002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b54720b48a415bad44a3cef3455afb6e
+    m_Address: Assets/Texture2D/Baldi_Wave0067.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b559e635e29ee78b407c1209fba467cc
+    m_Address: Assets/Texture2D/YCTP.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b59a7389a90fb19e418ae7e7c105137c
+    m_Address: Assets/Texture2D/Baldi_Wave0000.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b5b50397196d418c4889d07f2d83d6f0
+    m_Address: Assets/Texture2D/Baldi_Wave0024.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b5b78fb86eefaead4d209446f74dd040
+    m_Address: Assets/Texture2D/Baldi_Wave0094.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b6b0d6146746a18842b946a26c8a34d7
+    m_Address: Assets/Texture2D/WD_NoSqueePoster.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b6ce1dd48a114c9a41485877a8ce1613
+    m_Address: Assets/Texture2D/Baldi_Wave0002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b6d8923c3fc206bb41dad6c9b0e378ae
+    m_Address: Assets/Texture2D/Baldi_Wave0030.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b738061afe10c99c40f8c08d9a35266b
+    m_Address: Assets/Texture2D/Rope0036.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b74dd184462f06a04166d58713da80e5
+    m_Address: Assets/Texture2D/Baldi_Wave0031.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b8128674a0eb23b74177568142c6abe6
+    m_Address: Assets/Texture2D/Bald_Frown0022.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b8bed71089f350b244e2b1ef8ad84f4d
+    m_Address: Assets/Texture2D/HeadShake0003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ba6c832d0426dd974e5556b6ceec2422
+    m_Address: Assets/Texture2D/AlarmClockItem.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bcf699bbf26bdaad4c83b1da53e4f9b5
+    m_Address: Assets/Texture2D/Baldi_Talk0006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bed10bad22d2c6b24ca4e9d0e1f8911a
+    m_Address: Assets/Texture2D/Bald_Frown0051.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bf2f0d0a46a663b94b117c7c091bae87
+    m_Address: Assets/Texture2D/HeadShake0000.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c058e15d581390ba41f04082832a36ec
+    m_Address: Assets/Texture2D/Baldi_Poster.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c2018b7c599572844d6055f26a0765d1
+    m_Address: Assets/Texture2D/Bald_Frown0071.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c2fb53730a92e5b34c6e16462d11bc52
+    m_Address: Assets/Texture2D/Baldi_Wave0004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c37fd7e882a041b847b0751fb09eb17c
+    m_Address: Assets/Texture2D/Baldi_Wave0085.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c394de01ed70619844cc4b8d67c22652
+    m_Address: Assets/Texture2D/Principal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c3aede87d9024a8c406daa16b6ab2c6c
+    m_Address: Assets/Texture2D/Font Texture_1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c46fb2bcabd2c1af42579db9f0175732
+    m_Address: Assets/Texture2D/Bald_Frown0001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c51e43db4a0fcdab4d88efea427d355d
+    m_Address: Assets/Texture2D/Baldi_Wave0048.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c586f9ff5e37c7874d3a34c908b83bd3
+    m_Address: Assets/Texture2D/Nod0031.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c9570f1c43f347954d2532a1dc8cb1cf
+    m_Address: Assets/Texture2D/Baldi_Talk0014.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c9b0afd290731894479dc51e37eb4cbf
+    m_Address: Assets/Texture2D/Baldi_Wave0034.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c9e4186bf295b58547911a17a2be4755
+    m_Address: Assets/Texture2D/Homestar.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ca60a29e8576ada840542b5f031cd97c
+    m_Address: Assets/Texture2D/Bald_Frown0060.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cacb4c75143081b34144540ef7fa9521
+    m_Address: Assets/Texture2D/Window.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cae46414b9a319bb4956749e8beaee20
+    m_Address: Assets/Texture2D/Math.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cb05a6277cf154b94667b84860361b05
+    m_Address: Assets/Texture2D/Nod0016.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cb55f4296f80a1824d9ae41123babbe0
+    m_Address: Assets/Texture2D/Bald_Frown0010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cb5977b37777e39143164151b8c13f56
+    m_Address: Assets/Texture2D/Bald_Frown0050.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cb763669ae2ecfaf4fc8b9398cd6e6b4
+    m_Address: Assets/Texture2D/Rope0032.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cc09e1d29f29c29b47285bc4a0d80088
+    m_Address: Assets/Texture2D/UISprite.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cd25bee847e829ae4d018a4ba20748c9
+    m_Address: Assets/Texture2D/Bald_Frown0056.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cdfd2e048e13c48144d658d5f73637da
+    m_Address: Assets/Texture2D/HeadShake0008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cdfebf5f0df05ebf4a1ca1ae3eca1dc8
+    m_Address: Assets/Texture2D/Grass.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ce07e56bff76a5964e9b42d40bcbc1cb
+    m_Address: Assets/Texture2D/Rope0041.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cf60bbb24049a5a345cb2bdc10e87af2
+    m_Address: Assets/Texture2D/Bald_Frown0044.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cf73bc630c9bfc9f452afad95674edc5
+    m_Address: Assets/Texture2D/Quarter.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d02b2ab434ffc5b440b869764cd67b9c
+    m_Address: Assets/Texture2D/Nod0043.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d0416573a3685ba74c9c893db576dfc4
+    m_Address: Assets/Texture2D/Bald_Frown0037.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d06314f3b504db9a44fd4b7bb052d98b
+    m_Address: Assets/Texture2D/Baldi_Talk0023.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d076156fd61007a84d68a254efbe731e
+    m_Address: Assets/Texture2D/1PR_315.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d094203b6e873aa541b746b481e3a054
+    m_Address: Assets/Texture2D/Bald_Frown0002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d20ee146a794ac824710f6f3946fe0d7
+    m_Address: Assets/Texture2D/HeadShake0026.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d351bcb79c53b6b0494adf99673c5e19
+    m_Address: Assets/Texture2D/Baldi_Wave0081.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d448f54a276baf9343f86593e29f137e
+    m_Address: Assets/Texture2D/Baldi_Wave0058.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d4bbd696a75bfcaa475fefe645825fbe
+    m_Address: Assets/Texture2D/Baldi_Wave0022.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d5947ba7efab5ab64b262a8f4a8c8746
+    m_Address: Assets/Texture2D/Nod0015.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d6029ae7af707f8e4e35c75985e1fc36
+    m_Address: Assets/Texture2D/sky_270.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d65f62d873dbd88a411a5f4959a4ab63
+    m_Address: Assets/Texture2D/Baldi_Wave0028.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d6c2c3c1c55846b7402c0c244e4da740
+    m_Address: Assets/Texture2D/Bald_Frown0025.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d6eaea7c4c61f08947041e8d71dece72
+    m_Address: Assets/Texture2D/Key.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d8474894dcf9eab24e1608ae6e255653
+    m_Address: Assets/Texture2D/Bald_Frown0017.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d8a795881435149a446e5b18cdd64eae
+    m_Address: Assets/Texture2D/Baldi_Wave0006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d9b85fb320c9c3904c1fd5bd904a4dac
+    m_Address: Assets/Texture2D/Bald_Frown0039.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d9b8945947e281b14e598d7ed5c9cc92
+    m_Address: Assets/Texture2D/Bald_Frown0043.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: da9231086128c6b34111cca9eeea34a6
+    m_Address: Assets/Texture2D/Bald_Frown0049.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: daaeae9f77548bb1487437b022751b9a
+    m_Address: Assets/Texture2D/1PR_337.5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: db5a9bd7587364b548f9ff53fadb6752
+    m_Address: Assets/Texture2D/what.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: db6920f0f66efb864a52cb9d693040e7
+    m_Address: Assets/Texture2D/Nod0042.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: db6e555b7c8546b14c202e672407254e
+    m_Address: Assets/Texture2D/Nod0008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: dbbe4d5182fe50be430e16b01df81948
+    m_Address: Assets/Texture2D/99.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: dcb4a707342940a34ace3fad77f5314a
+    m_Address: Assets/Texture2D/Baldi_Wave0065.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: dd4634a0293c46a1462d056f48ffa4fe
+    m_Address: Assets/Texture2D/HeadShake0045.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: def463d13b1d008d4ee18ef19eda9ec6
+    m_Address: Assets/Texture2D/Bald_Frown0048.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: dfe53cb1abd96b984a9af63e8c56da97
+    m_Address: Assets/Texture2D/JumpRope_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: dffa7c59be440e8941f546dc85db9666
+    m_Address: Assets/Texture2D/SchoolRulesPoster.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e033ecd8c38567b94dd0e68465111f39
+    m_Address: Assets/Texture2D/wow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e07c8bc71ec02f9949fbe599039c699e
+    m_Address: Assets/Texture2D/Baldi_Wave0091.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e11be89c6b7b4d844800d7c317ca3718
+    m_Address: Assets/Texture2D/AlarmClockDrop.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e209bc5c316a7bb045bdba3060d61497
+    m_Address: Assets/Texture2D/Baldi_Wave0020.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e2588a053051f0944e4d37623bcc3192
+    m_Address: Assets/Texture2D/Baldi_Wave0062.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e2b6b78585b3d2ab4b9de74b1d101a1f
+    m_Address: Assets/Texture2D/BSODA.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e379a2fc7bac6a8340a392057d4d61ee
+    m_Address: Assets/Texture2D/Baldi_Wave0056.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e3cf5296b7b25f8f4236d08f975160f9
+    m_Address: Assets/Texture2D/Bald_Frown0042.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e3d126acb10cb7b04c163856373542fe
+    m_Address: Assets/Texture2D/Baldi_Wave0097.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e4a9d470d54ff8a046b60843a809f339
+    m_Address: Assets/Texture2D/HeadShake0019.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e4f9ac954624e2bf4a25dd62856fcc6f
+    m_Address: Assets/Texture2D/BSODAMachine.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e5759a51d2569fbd4e9ed408b40c18e8
+    m_Address: Assets/Texture2D/Bald_Frown0059.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e57d98cea558af8d4dcaf55b8a3d3ed9
+    m_Address: Assets/Texture2D/Rope0035.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e5f1a6855d49938c4cf901c324a94081
+    m_Address: Assets/Texture2D/Baldi_Wave0011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e7eee7e84da72cbf41418574baccac3f
+    m_Address: Assets/Texture2D/Baldi_Wave0082.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e8d37ad7445e019d4e4231797fbd49ee
+    m_Address: Assets/Texture2D/Baldi_Wave0040.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e9d2899ed6a4b99c475201bfcdb46b8f
+    m_Address: Assets/Texture2D/JumpRope_4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ea46901806daa584414dc3ccdd29144a
+    m_Address: Assets/Texture2D/Bald_Frown0063.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: eb588372b78f3abb4f13d751bb6e61f7
+    m_Address: Assets/Texture2D/Baldi_Wave0043.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ec1e83e6842b4bbd4559b3cc2a66c42c
+    m_Address: Assets/Texture2D/Baldi_Wave0093.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ec68829bb996dca048b330d9a961029c
+    m_Address: Assets/Texture2D/Baldi_Wave0019.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ed1eb9e012d9c3b2478fe45888358d56
+    m_Address: Assets/Texture2D/Bald_Frown0018.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ef0d03dc4fef68ae4441213f449f8255
+    m_Address: Assets/Texture2D/Tape.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: efb82cea1f4e15af492213b8d75ef4ac
+    m_Address: Assets/Texture2D/SwingDoor60.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: effe0960c87a57b34a43e4a33352fc2a
+    m_Address: Assets/Texture2D/Baldi_Wave0042.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f05537aafd9349ae4b9d8125bb5c8b08
+    m_Address: Assets/Texture2D/Plant.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f1b53b7ea7ee1abc4c0de45fdf425f0a
+    m_Address: Assets/Texture2D/Baldi_Wave0079.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f1dda08b85054aaa43861d029363a3ea
+    m_Address: Assets/Texture2D/Rope0034.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f23e2b869d56129742b95b41b55738d7
+    m_Address: Assets/Texture2D/Bald_Frown0058.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f3a9452488418498499ea4044a0b8bdc
+    m_Address: Assets/Texture2D/Baldi_Wave0049.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f41903924985ef9e4a38f47e12191979
+    m_Address: Assets/Texture2D/Crafters_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f441db92c1d41bbe462a428b0add2694
+    m_Address: Assets/Texture2D/0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f46663ea3700488447105876515cdc4a
+    m_Address: Assets/Texture2D/JumpRope_3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f496a5873150b98b4763075e0c84c434
+    m_Address: Assets/Texture2D/Door_80.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f4e05ab6919754984ef46cdf26a26132
+    m_Address: Assets/Texture2D/Nod0026.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f511e54369f9deb74455191ac384867d
+    m_Address: Assets/Texture2D/Baldi_Talk0005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f5173a286e9d80b949f7d131cd81ceb3
+    m_Address: Assets/Texture2D/Bald_Frown0013.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f64dc98c781793b448b1e5f412440b75
+    m_Address: Assets/Texture2D/Nod0035.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f692de21d1d6b29243bd8360fe31185e
+    m_Address: Assets/Texture2D/Playtime_Poster.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f699780709c4f5ba4aedf6e3b4cb21a9
+    m_Address: Assets/Texture2D/WestExit.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f8102e76aaa7eb884d7b355f8cee5b5c
+    m_Address: Assets/Texture2D/bully_final.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f86528930f6932b6476fdec034ea0bd8
+    m_Address: Assets/Texture2D/Baldi_Talk0015.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f93d680c5c48b5a14764a97616ed1a5d
+    m_Address: Assets/Texture2D/Baldi_Wave0090.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f9725bba8260458c426e950e46afa49c
+    m_Address: Assets/Texture2D/Bald_Frown0070.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fa97e5c03a46409f4ca54dd3055b76ab
+    m_Address: Assets/Texture2D/HeadShake0040.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fab7bee80daf6e924f9c61d99fb90296
+    m_Address: Assets/Texture2D/Nod0034.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fab997c2b19a29924ac61f8c6a354a2c
+    m_Address: Assets/Texture2D/Baldi_Wave0076.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fc62364890e95caf4226fe9e2f2006d1
+    m_Address: Assets/Texture2D/Bald_Frown0015.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fd3ee683e0c07bba4f4bf5f3ea3c53bf
+    m_Address: Assets/Texture2D/Nod0005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fe2b1e57af1d38994a6e718bc38ef2f6
+    m_Address: Assets/Texture2D/Baldi_Slap0018.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ff13df6e1ea51b8d4445b28df1383b83
+    m_Address: Assets/Texture2D/Bald_Frown0054.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ff4b2f5f095ca9a241e576bef0c205f6
+    m_Address: Assets/Texture2D/EnergyFlavoredZestyBar.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c8c0969d5f5d76140aaeda4a76988241, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d7c49fc4526689341b658861d7bd87cc, type: 2}
+    - {fileID: 11400000, guid: f90ad1a76b43e0748b2218497823ffca, type: 2}
