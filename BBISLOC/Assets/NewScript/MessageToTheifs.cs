@@ -1,4 +1,7 @@
-﻿using System.Collections;
+//NOTE: I NO LONGER AGREE WITH THIS MESSAGE AND THIS WILL ONLY BE KEPT FOR ARCHIVAL PURPOSES
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UberLogger;
